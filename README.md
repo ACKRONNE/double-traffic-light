@@ -1,6 +1,7 @@
 # double-traffic-light
 
-Traffic light simulation with PIC16F84A
+Two traffic lights simulation with PIC16F84A
 
-Proteus is used for the simulation and the pic code is programmed in Assembler
+Proteus 8 was used for the simulation. The PIC code was developed in assembly language
+
 
